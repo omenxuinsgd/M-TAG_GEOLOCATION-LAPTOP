@@ -60,8 +60,11 @@ Map visualization will update dynamically as data arrives.
 
 ---
 
-## 🌎 UI Preview
-[![UI Preview]([https://github.com/omenxuinsgd/M-TAG_GEOLOCATION-LAPTOP/blob/main/demo.mp4])(https://github.com/omenxuinsgd/M-TAG_GEOLOCATION-LAPTOP/blob/main/demo.mp4)
+## 🌎 Demo Project
+<video controls width="100%">
+  <source src="https://github.com/omenxuinsgd/M-TAG_GEOLOCATION-LAPTOP/raw/main/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -76,7 +79,7 @@ Map visualization will update dynamically as data arrives.
 ---
 
 ## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MajoreIT License](LICENSE).
 
 Happy coding! 🚀
 
