@@ -61,7 +61,7 @@ Map visualization will update dynamically as data arrives.
 ---
 
 ## 🌎 UI Preview
-[![UI Preview](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/omenxuinsgd/M-TAG_GEOLOCATION-LAPTOP/blob/main/demo.mp4)
+[![UI Preview]([https://github.com/omenxuinsgd/M-TAG_GEOLOCATION-LAPTOP/blob/main/demo.mp4])(https://github.com/omenxuinsgd/M-TAG_GEOLOCATION-LAPTOP/blob/main/demo.mp4)
 
 ---
 
