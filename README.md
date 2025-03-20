@@ -1,4 +1,4 @@
-# Live MQTT Subscriber & Laptop Device Tracker
+# Live MQTT Subscriber & LAPTOP Device Tracker
 
 ## 📌 Overview
 This project is a real-time MQTT subscriber system with GPS tracking, visualized using Streamlit and Leafmap. It consists of three key components:
@@ -61,7 +61,7 @@ Map visualization will update dynamically as data arrives.
 ---
 
 ## 🌎 UI Preview
-![UI Preview](https://github.com/omenxuinsgd/M-TAG_GEOLOCATION-LAPTOP/blob/main/demo.mp4)
+[![UI Preview](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/omenxuinsgd/M-TAG_GEOLOCATION-LAPTOP/blob/main/demo.mp4)
 
 ---
 
